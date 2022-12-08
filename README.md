@@ -1,4 +1,4 @@
-# Comparison-of-sorting-algorithms
+# comparison-of-sorting-algorithms
 
 数据结构课程小设计
 
